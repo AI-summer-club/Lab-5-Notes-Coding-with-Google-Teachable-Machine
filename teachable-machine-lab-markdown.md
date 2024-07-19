@@ -25,8 +25,9 @@ A no-code tool from Google that lets you create machine learning models using yo
    - Train the model to identify EDM music as oppose to rap
    - Train the model to identify a squat pose from a standing pose
    - Use ChatGPT to get you started with a prompt! 
-4. Add classes and collect samples for each class.
-    Classes typically range from two comparitors;
+4. Add classes and collect samples for each class. **Create at least two different classes**
+
+   Classes typically range from two comparitors;
    - human vs vehicle class
    - classical music vs modern pop music class
    - etc.
