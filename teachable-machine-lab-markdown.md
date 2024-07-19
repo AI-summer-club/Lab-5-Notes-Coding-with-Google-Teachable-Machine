@@ -18,6 +18,7 @@ A no-code tool from Google that lets you create machine learning models using yo
 
 1. Go to https://teachablemachine.withgoogle.com/.
 2. Choose your project type (Image, Audio, or Pose)
+
    **NOTE:** You WILL be recording your own data. If your camera does not work/you do not want to use your camera, remember you can use data samples from online. Get creative! Attached are some common examples you can get inspired from:
    - Upload photos of dogs and cats to have the machine learn how to identify dogs vs cats
    - Upload photos of different fingers and have the model identify which finger is index, pinky, thumb, etc.
@@ -26,9 +27,9 @@ A no-code tool from Google that lets you create machine learning models using yo
    - Use ChatGPT to get you started with a prompt! 
 4. Add classes and collect samples for each class.
     Classes typically range from two comparitors;
-       - human vs vehicle class
-       - classical music vs modern pop music class
-       - etc.
+   - human vs vehicle class
+   - classical music vs modern pop music class
+   - etc.
 ## Training, Testing, & Exporting Your Model
 
 ### Training:
